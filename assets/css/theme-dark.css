@@ -1,0 +1,36 @@
+:root {
+  --color-bg-01: #333333;
+  --color-txt-01: #ffffff;
+}
+
+.theme-dark {
+  color: var(--color-txt-01);
+  background-color: var(--color-bg-01);
+}
+.theme-dark hr {
+  border-color: var(--color-txt-01);
+}
+.theme-dark .close {
+  color: var(--color-txt-01);
+}
+.theme-dark .modal-content {
+  background-color: #333;
+}
+.theme-dark .dropdown-menu {
+  background-color: #333;
+  border-color: var(--color-txt-01);
+}
+.theme-dark .dropdown-menu a {
+  color: var(--color-txt-01);
+}
+.theme-dark .dropdown-menu a:hover {
+  background-color: var(--color-txt-01);
+  color: #333;
+}
+.theme-dark .input-group .input-group-text {
+  background-color: var(--color-bg-01);
+  border-color: var(--color-txt-01);
+}
+.theme-dark .input-group a {
+  background-color: var(--color-bg-01);
+}/*# sourceMappingURL=theme-dark.css.map */

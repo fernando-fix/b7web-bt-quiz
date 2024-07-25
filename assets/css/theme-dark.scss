@@ -1,0 +1,48 @@
+:root {
+    --color-bg-01: #333333;
+    --color-txt-01: #ffffff;
+}
+
+.theme-dark {
+    color: var(--color-txt-01);
+    background-color: var(--color-bg-01);
+
+    hr {
+        border-color: var(--color-txt-01);
+    }
+
+    .close {
+        color: var(--color-txt-01);
+    }
+
+    .modal-content {
+        background-color: #333;
+    }
+
+    .dropdown-menu {
+        background-color: #333;
+        border-color: var(--color-txt-01);
+    }
+
+    .dropdown-menu a {
+        color: var(--color-txt-01);
+    }
+
+    .dropdown-menu a:hover {
+        background-color: var(--color-txt-01);
+        color: #333;
+    }
+
+    .input-group {
+
+        .input-group-text {
+            background-color: var(--color-bg-01);
+            border-color: var(--color-txt-01);
+        }
+
+        a {
+            background-color: var(--color-bg-01);
+        }
+
+    }
+}
