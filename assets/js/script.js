@@ -24,3 +24,5 @@ function trocarTema() {
         localStorage.setItem('tema', 'light');
     }
 }
+
+console.log(questions);
