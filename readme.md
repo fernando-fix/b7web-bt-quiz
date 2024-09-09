@@ -46,4 +46,4 @@ Este projeto está licenciado sob a Licença MIT. Isso significa que você pode 
 
 ## Progresso do desenvolvimento
 
-- Projeto em finalizado
+- Projeto finalizado
