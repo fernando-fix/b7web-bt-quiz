@@ -17,7 +17,6 @@ Este site é um desafio do curso de bootstrap da B7WEB.
 - Início do quiz com perguntas em ordem aleatória
 - Respostas apresentadas em ordem aleatória
 
-
 ## Instalação
 
 1. Clone este repositório:
@@ -38,12 +37,14 @@ Este site é um desafio do curso de bootstrap da B7WEB.
 
 Este projeto está licenciado sob a Licença MIT. Isso significa que você pode usar, copiar, modificar, fundir, publicar, distribuir, sublicenciar e/ou vender cópias do software, desde que o aviso de copyright original e esta permissão sejam incluídos em todas as cópias ou partes substanciais do software.
 
-
 ## Autor
 
 - [@fernando-fix](https://www.github.com/fernando-fix)
 
-
 ## Progresso do desenvolvimento
 
 - Projeto finalizado
+
+## Acesso ao projeto
+
+- [Clique aqui](https://fernando-fix.github.io/b7web-bt-quiz/)
